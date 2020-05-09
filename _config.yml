@@ -1,0 +1,10 @@
+remote_theme: pmarsceill/just-the-docs
+logo: "https://bank.northwatchbank.com/img/logo.png"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+aux_links:
+  "NorthWatch":
+    - "https://bank.northwatchbank.com"
+heading_anchors: true
+footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting."
+color_scheme: "light"
