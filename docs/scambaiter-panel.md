@@ -9,7 +9,7 @@ nav_order: 2
 ## How to access the Scambaiter Panel
 - Login Normally
 - Click on "NorthWatch Investments" in the footer
-- Login again
+- Login again, but be sure to use the Scambaiter Password that you set when you created your account.  If you created your account prior to May of 2020, it is possible that you didn't set a Scambaiter Password upon account creation.  If this is the case, use your normal account password for accessing the scambaiter panel.
 
 Here is an image showing the process:
 ![Image](https://imgur.com/zXQInAc.png)
