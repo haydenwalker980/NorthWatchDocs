@@ -7,14 +7,17 @@ nav_order: 2
 # Accessing and Using the Scambaiter Panel
 
 ## How to access the Scambaiter Panel
-While logged in, to access the Scambaiter Panel, click on NorthWatch Investments as you can also see on the screenshot:
-![northwatchinvestments](https://imgur.com/zXQInAc)
+- Login Normally
+- Click on "NorthWatch Investments" in the footer
+- Login again
 
-## - Bank Accounts
-You can edit any of your fake Bank Account's titles and their balance just by clicking on "Edit".
+Here is an image showing the process:
+![Image](https://imgur.com/zXQInAc.png)
 
-## - IP/Logins
-This page shows the recent activity on your account. It shows exactly what parts of the site you visited, what time, the IP of the machine you have visited them from and the browser you used.
-There is also an "IP Lookup" at the last column of every row. Clicking it will open a lookup of that IP in a new tab on the website [whatismyipaddress.com](https://whatismyipaddress.com/)
+# Parts of the Scambaiter Panel
+You can configure these diffrent options from the Scambaiter Panel.  Use the sidebar links to go to these diffrent sections.
+## Bank Accounts
+You can edit the title and balance of your bank accounts by going to the Bank Accounts page, and clicking on edit.  If you have NorthWatch PRO, you can add and delete bank accounts, and you can have up to 9 of them.
 
-Note: *NorthWatch is not in any way assosiated with [whatismyipaddress.com](https://whatismyipaddress.com/).*
+## IP/Logins
+The IP/Logins page shows the IP address of each login to NorthWatch.  It doesn't show the IPs of indevidual pages, just the login and scambaiter pages.  If you have PRO, it shows the full user agent of the login.  There is also an "IP Lookup" at the last column of every row. Clicking it will open a lookup of that IP in a new tab on the website [whatismyipaddress.com](https://whatismyipaddress.com/), but please note that NorthWatch isn't assosiated with WhatIsMyIPAddress.com.
