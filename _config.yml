@@ -6,5 +6,5 @@ aux_links:
   "NorthWatch":
     - "https://bank.northwatchbank.com"
 heading_anchors: true
-footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting.  You can contribute to the documentation [here](https://github.com/evanspy1/NorthWatchDocs/)."
+footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting.  You can contribute to the documentation at https://github.com/evanspy1/NorthWatchDocs/."
 color_scheme: "light"
