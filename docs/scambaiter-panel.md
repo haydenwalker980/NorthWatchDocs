@@ -21,3 +21,6 @@ You can edit the title and balance of your bank accounts by going to the Bank Ac
 
 ## IP/Logins
 The IP/Logins page shows the IP address of each login to NorthWatch.  It doesn't show the IPs of indevidual pages, just the login and scambaiter pages.  If you have PRO, it shows the full user agent of the login.  There is also an "IP Lookup" at the last column of every row. Clicking it will open a lookup of that IP in a new tab on the website [whatismyipaddress.com](https://whatismyipaddress.com/), but please note that NorthWatch isn't assosiated with WhatIsMyIPAddress.com.
+
+# [Forums](https://docs.northwatchbank.com/docs/forums.html)
+The scambaiter panel allows you to access the NorthWatch Forums, you can read the Forums documentation [here](https://docs.northwatchbank.com/docs/forums.html).
