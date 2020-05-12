@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Scambaiter Panel
+title: Cloudflare Errors
 nav_order: 99
 ---
 # Cloudflare Errors
 We use CloudFlare to stay online, and occasionally you might see errors from them.  Here is an explination of what they mean on NorthWatch.
 
 ## Error 1015 - You are being rate limited
-This happens if you are refreshing the page too fast, or are switching beteen many pages.  To prevent spam, we only allow a certain number of page requests per time period, then you will get the error for the one minute cooldown.
+This happens if you are refreshing the page too fast, or are switching beteen many pages.  To prevent spam, we only allow a certain number of page requests per time period, then you will get the error, then you need to wait one minute before you will be able to access the site again.
 
 ## Error 1020 - Access denied
 This happens if you are accessing a restricted page (registration, scambaiter login, etc.), and you have been detected to be a scammer by our automatic detection systems.  We use these systems to prevent scammers from creating and using NorthWatch.  If you are getting this error and you are a ligitimate user, try accessing NorthWatch on a diffrent device or browser, and try incognito/private mode.
