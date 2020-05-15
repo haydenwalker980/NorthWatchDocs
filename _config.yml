@@ -12,5 +12,5 @@ aux_links:
   "Twitter":
     - "https://twitter.com/northbaits"
 heading_anchors: true
-footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting.  You can contribute to the documentation at https://github.com/evanspy1/NorthWatchDocs/.  Thanks to GitHub Pages for hosting the NorthWatch Docs!"
+footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting.  You can contribute to the documentation <a href="https://github.com/evanspy1/NorthWatchDocs/">on GitHub</a>.  Thanks to GitHub Pages for hosting the NorthWatch Docs!<br><center><a href="https://status.northwatchbank.com"><img src="https://statuspage.freshping.io/badge/8961dc1f-1f07-4297-a498-7ae73a6fdcde?0.7006019207526264"/> </a></center>"
 color_scheme: "light"
