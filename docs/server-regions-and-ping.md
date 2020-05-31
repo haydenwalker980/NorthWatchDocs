@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cloudflare Errors
+title: Server Regions and Ping
 nav_order: 4
 ---
 
