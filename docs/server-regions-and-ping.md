@@ -16,7 +16,6 @@ As mentioned above, we have multiple server regions.  Here is the definitive lis
 * Los Angeles, United States
 * Atlanta, United States
 * London, United Kingdom
-* Mumbai, India
 
 If you live near any of the places that list (although if you are in India, you don't have easy access to NorthWatch as a scambaiting tool), you can expect very good speeds except in very rare cases of high server load, and high load is typically mitigated in seconds.
 
@@ -32,6 +31,6 @@ Here are some common questions you might have about load balancing and server re
 The answer is usually yes, unless you are in a very remote area.  If your country isn't on that list and your connection speeds suffer because of it, [please send us an email](mailto:help@northbaits.com)!  We love to hear suggestions, and are happy to look into adding server regions where neccesary.  You can easily test it out, just browse NorthWatch and see if you have significant ping or slowdowns.
 
 ```
-"Why are you spoiling the scammers?  Shouldn't you focus servers towards users and away from India?
+Did the servers change?
 ```
-By having a server in India, we are actually **helping** you access NorthWatch faster.  The India server(s) usually have the most load, since scammers are constantly connecting to NorthWatch as scambaiters go through the script and try to get scammer ips.  By having a server in India dedicated to the scammers, we are reducing load (and increasing speeds) for all the other servers!
+Possibly, the servers change freqently along with usage.  You can see [the history of this file here](https://github.com/evanspy1/NorthWatchDocs/commits/master/docs/server-regions-and-ping.md), and that shows all the changes that have been made to this documentation file, including additions and deletions of server regions.
