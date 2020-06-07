@@ -1,4 +1,9 @@
-# NorthWatch Chrome Extension
+---
+layout: default
+title: NorthWatch Custom Pages Extension
+nav_order: 6
+---
+# NorthWatch Custon Pages Extension
 The NorthWatch Custom Pages Extension allows you to set the current page you are visiting to NorthWatch by clicking a button.
 
 # How to Install
