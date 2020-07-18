@@ -11,6 +11,4 @@ So, you've read through the rest of the docs and can't find the answer to your q
 
 - Use [the Forums](https://docs.northwatchbank.com/docs/forums.html)
 
-- Tweet at us [@NorthBaits](https://twitter.com/northbaits)
-
 - Email us at [help@northbaits.com](mailto:help@northbaits.com)
