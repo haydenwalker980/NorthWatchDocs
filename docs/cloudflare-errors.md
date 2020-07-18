@@ -10,7 +10,7 @@ We use CloudFlare to stay online, and occasionally you might see errors from the
 This happens if you are refreshing the page too fast, or are switching beteen many pages.  To prevent spam, we only allow a certain number of page requests per time period, then you will get the error, then you need to wait one minute before you will be able to access the site again.
 
 ## Error 1020 - Access denied
-This happens if you are accessing a restricted page (registration, scambaiter login, etc.), and you have been detected to be a scammer by our automatic detection systems.  We use these systems to prevent scammers from creating and using NorthWatch.  If you are getting this error and you are a ligitimate user, try accessing NorthWatch on a diffrent device or browser, and try incognito/private mode.
+This happens if you are accessing a restricted page (registration, scambaiter login, etc.), and you have been detected to be a scammer by our automatic detection systems.  We use these systems to prevent scammers from creating and using NorthWatch accounts.  If you are getting this error and you are a legitimate user, try accessing NorthWatch on a diffrent device or browser, and try incognito/private mode.
 
 ## One more step - Security Checks
 These are very common, and will happen if we detect that you are using a VPN, or are exhibiting any high-risk behavior.  These don't effect your account or NorthWatch in any way other than requiring a little bit of extra verification.
