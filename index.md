@@ -13,7 +13,6 @@ The [northwatchbank.com](https://northwatchbank.com) landing page is designed fo
 # Table of Contents
 - [Scambaiter Panel](https://docs.northwatchbank.com/docs/scambaiter-panel.html) - How to access and use the Scambaiter Panel, how the diffrent parts of the scambaiter panel work.
 - [Forums](https://docs.northwatchbank.com/docs/forums.html) - How to use the Forums.
-- [Server Regions and Ping](https://docs.northwatchbank.com/docs/server-regions-and-ping.html) - The diffrent NorthWatch server regions, ping, ping-related issues, and how to fix them.
 - [Custom Pages Chrome Extension](https://docs.northwatchbank.com/docs/chrome-extension.html) - Documentation for the Custom Pages Chrome Extension
 - [Cloudflare Errors](https://docs.northwatchbank.com/docs/cloudflare-errors.html) - Some common errors from Cloudflare that you may recieve while browsing NorthWatch, what they mean, and how to fix them.
 - [Troubleshooting Steps](https://docs.northwatchbank.com/docs/troubleshooting-steps.html) - Common solutions for tons of diffrent problems within NorthWatch.
