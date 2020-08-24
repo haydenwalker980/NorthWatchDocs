@@ -12,7 +12,11 @@ nav_order: 2
 - Login again, but be sure to use the Scambaiter Password that you set when you created your account.  If you created your account prior to May of 2020, it is possible that you didn't set a Scambaiter Password upon account creation.  If this is the case, use your normal account password for accessing the scambaiter panel.
 
 Here is an image showing the process:
+
 ![Image](https://imgur.com/zXQInAc.png)
+
+
+**You can also access the scambaiter panel login directly by doing to [scambaiter.northwatchbank.com](http://scambaiter.northwatchbank.com).**
 
 # Parts of the Scambaiter Panel
 You can configure these different options from the Scambaiter Panel.  Use the sidebar links to go to these diffrent sections.
