@@ -1,7 +1,7 @@
 ---
 layout: default
 title: North.Watch
-nav_order: 2
+nav_order: 8
 ---
 
 ## North.Watch vs NorthWatchBank.com
