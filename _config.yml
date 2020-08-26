@@ -3,14 +3,8 @@ logo: "https://bank.northwatchbank.com/img/logo.png"
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 aux_links:
-  "NorthWatch":
-    - "https://bank.northwatchbank.com"
-  "Blog":
-    - "https://blog.northwatchbank.com"
-  "Status":
-    - "https://status.northwatchbank.com"
-  "Twitter":
-    - "https://twitter.com/northbaits"
+  "North.Watch":
+    - "https://north.watch"
 heading_anchors: true
 footer_content: "Open Source Documentation for NorthWatch Bank, the Fake Bank for refund scambaiting.  You can contribute to the documentation on GitHub (https://github.com/evanspy1/NorthWatchDocs/).  Thanks to GitHub Pages for hosting the NorthWatch Docs!"
-color_scheme: "light"
+color_scheme: "dark"
