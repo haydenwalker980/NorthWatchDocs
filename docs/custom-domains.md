@@ -45,4 +45,4 @@ Go to [freenom.com](https://freenom.com). Before starting, you need to create an
 
 Congrats! It can take up to 24 hours for your site to launch. If you have any problems with Freenom, please contact them. You can set your new bank name and logo in the scambaiter panel on the My Account page if you are a pro user.
 
-**Be sure to enable third-party/cross-site cookies for northwatchbank.com and your custom domain, or globally. If you don't do this, your session cookie will be blocked and you will get a 404 error when attempting to login.**
+**Be sure to enable third-party/cross-site cookies for northwatchbank.com and your custom domain, or globally. If you don't do this, your session cookie will be blocked and you will get a 404 error when attempting to login.  On Chrome, go to `chrome://settings/content/cookies?search=cookies` and make sure "Block Third-Party Cookies" is disabled.**
