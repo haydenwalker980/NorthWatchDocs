@@ -43,6 +43,6 @@ Go to [freenom.com](https://freenom.com). Before starting, you need to create an
 [17] type "https://northwatchbank.com/" (the screenshot is incorrect) into the "URL Fowarding" box, leave "Foward Mode" on default", [18] then click "Set URL"  
 [![](https://i.imgur.com/5nvcAQN.png)](https://i.imgur.com/5nvcAQN.png)   
 
-Congrats! It will take up to 24 hours (but usually takes 20 minutes) for your site to launch, but your custom NorthWatch should be working! If you have any problems with Freenom, please contact them, and you can set your new bank name and logo in the scambaiter panel on the My Account page if you are a pro user. Changing the name and icon of NorthWatch is a feature reserved for PRO users.  
+Congrats! It can take up to 24 hours for your site to launch. If you have any problems with Freenom, please contact them. You can set your new bank name and logo in the scambaiter panel on the My Account page if you are a pro user.
 
 **Be sure to enable third-party/cross-site cookies for northwatchbank.com and your custom domain, or globally. If you don't do this, your session cookie will be blocked and you will get a 404 error when attempting to login.**
