@@ -18,4 +18,4 @@ LTC: `LgpN9oQqr6QhhZq98RrGHExm6gBfke3ech`
 DAI: `0xC8B9A1a6bc412785A17F3C38c5909cA2D2D40324`
 
 
-If you send crypto valued at $7 USD or more, send an email to crypto@northbaits.com with currency, transaction info, and your account email to get NorthWatch PRO.
+If you send crypto valued at $7 USD or more, send an email to crypto@north.watch with currency, transaction info, and your account email to get NorthWatch PRO.
