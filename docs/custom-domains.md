@@ -5,6 +5,8 @@ nav_order: 10
 ---
 How to setup a custom NorthWatch domain! Users on FREE and PRO can do this, but the bank name can only be changed on PRO accounts. You can click an image to get the full size version.
 
+**Please keep in mind, this DOES NOT WORK ON CHROME AT ALL due to their strict requirements.  Use Chromium or Firefox with this method.**
+
 Go to [freenom.com](https://freenom.com). Before starting, you need to create an account and sign in. Once you are signed into your account, come back and follow these instructions!  
 
 [1] type in the domain you are looking for. Don't include the .xxx, just what you want the main part of the domain to be. Then, [2] click "Check Avalibility" to search for the domain.  
@@ -45,4 +47,4 @@ Go to [freenom.com](https://freenom.com). Before starting, you need to create an
 
 Congrats! It can take up to 24 hours for your site to launch. If you have any problems with Freenom, please contact them. You can set your new bank name and logo in the scambaiter panel on the My Account page if you are a pro user.
 
-**Be sure to enable third-party/cross-site cookies for northwatchbank.com and your custom domain, or globally. If you don't do this, your session cookie will be blocked and you will get a 404 error when attempting to login.  On Chrome, go to `chrome://settings/content/cookies?search=cookies` and make sure "Block Third-Party Cookies" is disabled.  You also may need to set northwatchbank.com and your custom domain to "trusted" or "allowed" on any privacy extensions you may have installed.**
+**Be sure to enable third-party/cross-site cookies for northwatchbank.com and your custom domain, or globally. If you don't do this, your session cookie will be blocked and you will get a 404 error when attempting to login.  On Chromium, go to `chrome://settings/content/cookies?search=cookies` and make sure "Block Third-Party Cookies" is disabled.  You also may need to set northwatchbank.com and your custom domain to "trusted" or "allowed" on any privacy extensions you may have installed.**
