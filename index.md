@@ -4,6 +4,9 @@ title: Home
 nav_order: 0
 ---
 
+# DEPRECATED
+The documentation has been deprecated and replaced by the Help page within the NorthWatch scambaiter panel at https://north.watch!
+
 # Welcome!
 Welcome to the docs for the NorthWatch project.  If you find a typo, old information, or something you think should be fixed, you can [click here](https://github.com/evanspy1/NorthWatchDocs/) to access the GitHub repository for the documentation, and you can send a PR with your fix!
 
